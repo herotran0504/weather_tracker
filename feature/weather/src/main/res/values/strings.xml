@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_no_city_selected">No City Selected</string>
+    <string name="weather_select_city_hint">Please Search For A City</string>
+    <string name="weather_humidity">Humidity</string>
+    <string name="weather_uv">UV</string>
+    <string name="weather_feels_like">Feels Like</string>
+    <string name="weather_search_location">Search Location</string>
+</resources>
